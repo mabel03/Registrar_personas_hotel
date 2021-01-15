@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+    padding-top: 50px;
+    font-family: "Times New Roman", Times, serif;
+    border: 0px solid #000000;
+    background:url(Imagen/12520_1.jpg);
+}
+h3{
+    font-size:20px;
+	font-weight: 40;
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center; 
+}
+
+.Hola{
+    max-width: 1000px;
+	max-height: 1500px;
+    margin: 0px auto;
+    border: 0px solid #000000;
+    font-family: "Times New Roman", Times, serif;
+}
